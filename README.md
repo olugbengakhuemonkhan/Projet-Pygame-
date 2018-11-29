@@ -1,1 +1,1 @@
-# Projet-Pygame-
+# Project-Pygame- This means so much to me. While working on this project, I realised all my weaknesses which I am going to work on. I intended to make a fun time machine that calculates your age in months, weeks, days, hours, minutes and second. This is supposed to add up as the attributes to a Hero Character and equates it to the corresponding monster to fight. After one day of class work, I came up with this. 
